@@ -4,11 +4,6 @@
 
 export const environment = {
   production: false,
-  weatherAppBaseUrl: 'https://weatherapi-com.p.rapidapi.com/current.json',
-  XRapidAPIKeyHeaderName: 'X-RapidAPI-Key',
-  XRapidAPIKeyHeaderValue: '344b553260msh7092ae85f51bef4p1099f5jsnab8dc5aa7076',
-  XRapidAPIHostHeaderName: 'X-RapidAPI-Host',
-  XRapidAPIHostHeaderValue: 'weatherapi-com.p.rapidapi.com',
 };
 
 /*
